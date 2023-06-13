@@ -17,3 +17,14 @@ citation stub
 We collected and labelled an **InP** dataset, which we have prepared together with NPP VIDEOMIX. 
 The dataset is represented with annotated pairs of the following form: an image of a human eye captured by an infrared camera, 
 and a binary segmentation mask corresponding to a particular object (pupil and iris). The sample from the dataset is below:
+
+Iris:
+![iris](samples/iris_1.png)
+
+
+Pupil:
+![pupil](samples/pupil_1.png)
+
+
+The dataset contains 1758 images of iris paired with a mask (as shown to the left on the sample) from 8 subjects, 439 images per subject on average.
+The second part of the dataset contains 7343 images of pupil paired with a mask from 21 subjects, 699 images per subject on average.
